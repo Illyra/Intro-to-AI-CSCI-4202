@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Connect-4-MiniMax.py", line 128, in <module>
+    m = Minimax()
+TypeError: __init__() missing 1 required positional argument: 'precept'
